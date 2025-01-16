@@ -1,4 +1,4 @@
-# eodag-labextension
+ # eodag-labextension
 
 [![JupyterLab v3](https://badge.fury.io/py/eodag-labextension.svg)](https://badge.fury.io/py/eodag-labextension)
 [![JupyterLab v3](https://img.shields.io/badge/jupyterlab-3.x-orange?logo=jupyter)](https://jupyter.org/)
