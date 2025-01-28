@@ -52,7 +52,7 @@
     "@fortawesome/free-solid-svg-icons": "6.2.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@jupyterlab/application": "^3.4.8",
-    "@jupyterlab/apputils": "^3.4.8",
+    "@jupyterlab/apputils": "^3.6.8",
     "@jupyterlab/cells": "^3.4.8",
     "@jupyterlab/notebook": "^3.4.8",
     "@jupyterlab/settingregistry": "^3.4.8",
